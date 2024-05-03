@@ -1,4 +1,4 @@
-### Olá, sou o Nicolas Vitorino 👋
+### Hello. i'm Nicolas Vitorino 👋
 
 - 🔭 I'm currently working on Najatec, as a developer intern, working with Delphi and Golang as stack
 - 🌱 I’m currently learning HTML5. CSS3, JavaScript, TypeScript and Angular

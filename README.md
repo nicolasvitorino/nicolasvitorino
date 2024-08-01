@@ -1,8 +1,7 @@
 ### Hello. i'm Nicolas Vitorino 👋
 
-- 🔭 I'm currently working on Najatec, as a developer intern, working with Delphi and Golang as stack
-- 🌱 I’m currently learning HTML5. CSS3, JavaScript, TypeScript and Angular
-- 👾 I have some projects, a landpage in Angular a CRUD in PHP
+- 🔭 I'm currently working on Fitmass, as a developer front-end / mobile intern, working with Flutter and Dart as my stack.
+- 🌱 I’m currently learning Flutter, Dart, BLoC, JavaScript and TypeScript.
+- 👾 I have some projects, like a landpage in Angular and a CRUD in PHP.
 - 📫 My LinkedIn: https://www.linkedin.com/in/nicolas-vitorino-873501205/
-- 😄 Pronouns: He/Them
-- ⚡ Fun fact: I'm a doglover 🐶
+- 😄 Pronouns: He/Them.

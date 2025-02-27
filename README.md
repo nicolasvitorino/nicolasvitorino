@@ -1,6 +1,6 @@
 ### Hi, I'm Nicolas Vitorino 👋
 
-I'm a passionate mobile developer with a focus on **Flutter** and **Dart**, and I'm currently expanding my expertise into **native Android development with Kotlin**.
+I'm a passionate developer with a focus on **mobile development**.
 
 - 🔭 **Current Role**: Mobile Developer Intern at **Fitmass**, working with **Flutter/Dart** to build intuitive and high-performing mobile applications.
 - 🌱 **Learning**: Deepening my knowledge in **native Android development with Kotlin** to create robust, scalable apps for Android platforms. Also enhancing my skills in **Flutter**, **Dart**.

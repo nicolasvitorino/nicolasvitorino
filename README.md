@@ -10,7 +10,7 @@
 ---
 
 ## 🚀 Sobre Mim
-- 🔭 **Atualmente**: Estagiário de Front-end na **Fitmass**, trabalhando com **Flutter & Dart**.
+- 🔭 **Atualmente**: Estagiário de Desenvolvimento **Quality Digital**, trabalhando com **desenvolvimento Web**.
 - 🌱 **Estudando**: React, React Native, Nodejs e aprofundando Flutter/Dart.
 - 🎓 **Formação**: cursando Sistemas de Informação no 3º período – Centro Universitário de Curitiba (UniCuritiba).
 

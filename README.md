@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Olá, eu sou Nicolas Vitorino <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
-  <p>Desenvolvedor apaixonado por <strong>Front-end</strong> e <strong>Mobile</strong>.</p>
+  <h1>Bem vindo ao meu GitHub pessoal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+  <p>Desenvolvedor apaixonado por <strong>Web</strong> e <strong>Mobile</strong>.</p>
   <!-- Badges de perfil -->
   <a href="https://www.linkedin.com/in/nicolasvitorino/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>

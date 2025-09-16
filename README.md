@@ -10,8 +10,8 @@
 ---
 
 ## 🚀 Sobre Mim
-- 🔭 **Atualmente**: Estagiário de Desenvolvimento **Quality Digital**, trabalhando com **desenvolvimento Web**.
-- 🌱 **Estudando**: React, React Native, Nodejs e aprofundando Flutter/Dart.
+- 🔭 **Atualmente**: Estagiário de Desenvolvimento **Quality Digital**, trabalhando com **desenvolvimento de ecommerces**.
+- 🌱 **Estudando**: React, Nodejs e aprofundando Flutter/Dart.
 - 🎓 **Formação**: cursando Sistemas de Informação no 3º período – Centro Universitário de Curitiba (UniCuritiba).
 
 ---
@@ -23,7 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="Flutter"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="Dart"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="Angular"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" height="30" width="30" alt="Next.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5"/>

@@ -11,8 +11,8 @@
 
 ## 🚀 Sobre Mim
 - 🔭 **Atualmente**: Estagiário de Desenvolvimento na **Quality Digital**, trabalhando com **desenvolvimento de ecommerces**.
-- 🌱 **Estudando**: Next, React, VTEX IO, Nodejs e aprofundando Flutter/Dart.
-- 🎓 **Formação**: cursando bacharelado em Sistemas de Informação no 3º período – Centro Universitário de Curitiba (UniCuritiba).
+- 🌱 **Estudando**: Next.js, React, VTEX, Nodejs e aprofundando Flutter/Dart.
+- 🎓 **Formação**: cursando bacharelado em Sistemas de Informação no 4º período – Centro Universitário de Curitiba (UniCuritiba).
 
 ---
 

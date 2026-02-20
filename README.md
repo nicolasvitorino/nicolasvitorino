@@ -55,14 +55,6 @@
 
 ---
 
-## 📊 Minhas Estatísticas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasvitorino&layout=compact&langs_count=6&theme=shades-of-purple&hide_border=true" height="150" alt="Top Languages"/>
-</div>
-
----
-
 ## 📫 Como Me Encontrar
 
 <div align="center">

@@ -50,10 +50,11 @@
 
 | Projeto                             | Descrição                                         | Tech Stack                       |
 | ----------------------------------- | ------------------------------------------------- | -------------------------------- |
-| Task Manager (Offline-First)        | App CRUD com persistência local em Flutter        | Flutter, Dart, Hive              |
-| Dicionário de Inglês                | Consulta e histórico local com SQLite             | Flutter, Dart, sqflite           |
-| Sistema de receitas médicas         | CRUD com autenticação de diferentes de usuarios   | PHP, MySQL, HTML, CSS, JavaScript|
-| Landing Page PS4                    | LandPage responsiva com consumo de API REST       | Angular, TypeScript, JavaScript  |
+| <a href="https://github.com/nicolasvitorino/taski-todo"> Task Manager (Offline-First)</a>        | App CRUD com persistência local em Flutter        | Flutter, Dart, Hive              |
+|<a href="https://github.com/nicolasvitorino/english-words-app"> Dicionário de Inglês                | Consulta e histórico local com SQLite             | Flutter, Dart, sqflite           |
+| <a href="https://github.com/nicolasvitorino/medical-prescription-system-php">Sistema de receitas médicas         | CRUD com autenticação de diferentes de usuarios   | PHP, MySQL, HTML, CSS, JavaScript|
+|<a href="https://github.com/nicolasvitorino/angular-psn-store"> Landing Page PSN                    | LandPage responsiva com consumo de API REST       | Angular, TypeScript, JavaScript  |
+|<a href="https://github.com/nicolasvitorino/formula1-api"> API da Fórmula 1                    | API criada para aprofundar conceitos em back-end       | Nodejs, Fastify, TypeScript, JavaScript  |
 
 > 🔗 Confira todos no meu [GitHub](https://github.com/nicolasvitorino?tab=repositories)
 

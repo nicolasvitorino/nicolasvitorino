@@ -50,11 +50,12 @@
 
 | Projeto                             | Descrição                                         | Tech Stack                       |
 | ----------------------------------- | ------------------------------------------------- | -------------------------------- |
-| <a href="https://github.com/nicolasvitorino/taski-todo"> Task Manager (Offline-First)</a>        | App CRUD com persistência local em Flutter        | Flutter, Dart, Hive              |
-|<a href="https://github.com/nicolasvitorino/english-words-app"> Dicionário de Inglês                | Consulta e histórico local com SQLite             | Flutter, Dart, sqflite           |
-| <a href="https://github.com/nicolasvitorino/medical-prescription-system-php">Sistema de receitas médicas         | CRUD com autenticação de diferentes de usuarios   | PHP, MySQL, HTML, CSS, JavaScript|
+| <a href="https://github.com/nicolasvitorino/taski-todo"> Task Manager (Offline-First)</a>        | Gerenciador de tarefas offline com UI/UX fluída e persistência local       | Flutter, Dart, Hive              |
+|<a href="https://github.com/nicolasvitorino/english-words-app"> Dicionário de Inglês                | Consulta de palavras em inglês e significados, reprodução de pronúncias e histórico de pesquisa             | Flutter, Dart, sqflite (SQLite)           |
+| <a href="https://github.com/nicolasvitorino/api-champions">API da Champions League         | API em que é possivel realizar criação, visualização, atualização e deleção de jogadores em uma base de dados de um arquivo .json   | Node.js, Express.js, JSON, NPM, TypeScript, JavaScript|
 |<a href="https://github.com/nicolasvitorino/angular-psn-store"> Landing Page PSN                    | LandPage responsiva com consumo de API REST       | Angular, TypeScript, JavaScript  |
 |<a href="https://github.com/nicolasvitorino/formula1-api"> API da Fórmula 1                    | API criada para aprofundar conceitos em back-end       | Nodejs, Fastify, TypeScript, JavaScript  |
+|<a href="https://github.com/nicolasvitorino/api-todolist-springboot"> API Rest de tarefas                    | API em que é possivel criar, visualizar, atualizar e deletar tarefas       | Java, Spring Boot, Hibernate, JSON  |
 
 > 🔗 Confira todos no meu [GitHub](https://github.com/nicolasvitorino?tab=repositories)
 

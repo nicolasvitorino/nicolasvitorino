@@ -13,8 +13,8 @@
 ---
 
 ## 🚀 Sobre Mim
-- 🔭 **Atualmente**: Estagiário de Desenvolvimento na **Quality Digital**, trabalhando com **desenvolvimento de ecommerces**.
-- 🌱 **Estudando**: Next.js, React, Nodejs, VTEX, Flutter/Dart.
+- 🔭 **Atualmente**: Assistente de Desenvolvimento de software na **Grupo Pinho**, trabalhando com **desenvolvimento de software, automações e scraping**.
+- 🌱 **Estudando**: Nest.js, TypeORM, Nodejs e Python.
 - 🎓 **Formação**: cursando bacharelado em Sistemas de Informação no 4º período – Centro Universitário de Curitiba (UniCuritiba).
 
 ---
@@ -24,9 +24,7 @@
 <div align="left">
   <!-- Linguagens / Frameworks -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" height="30" width="30" alt="Next.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/vtex-apps/store-icons/bb60df29809a4edbc13b3e0febd6a3d9eb996ab4/docs/bnd-logo.svg" height="30" alt="VTEX"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5"/>
